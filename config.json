@@ -1,0 +1,6 @@
+{
+    "ClIENT_TOKEN": "YOUR_BOT_TOKEN",
+    "CLIENT_PREFIX": "!", 
+    "OWNER_ID": "YOUR_ID_HERE",
+    "MONGODB_URL": "PASTE_MONGODB_URL_HERE"
+  }
